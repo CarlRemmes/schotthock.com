@@ -1,1 +1,0 @@
-# schotthock.com
