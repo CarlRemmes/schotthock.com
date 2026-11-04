@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.schotthock.com/das-ist-ein-neuer-blogeintrag.html",
+            "url": "https://www.schotthock.com/das-ist-ein-neuer-blogeintrag.html",
+            "title": "Das ist ein neuer Blogeintrag!",
+            "author": {
+                "name": "Carl Remmes"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-04T15:18:07+01:00",
+            "date_modified": "2026-11-04T15:18:07+01:00"
+        },
+        {
             "id": "https://www.schotthock.com/blaetterbuehne-im-schotthock-ist-fertig.html",
             "url": "https://www.schotthock.com/blaetterbuehne-im-schotthock-ist-fertig.html",
             "title": "„Blätterbühne“ im Schotthock ist fertig",
@@ -134,20 +146,6 @@
             "tags": [
             ],
             "date_published": "2025-07-02T08:00:00+02:00",
-            "date_modified": "2026-09-12T13:40:24+02:00"
-        },
-        {
-            "id": "https://www.schotthock.com/gemeinsam-unser-stadtteilzentrum-gestalten-3.html",
-            "url": "https://www.schotthock.com/gemeinsam-unser-stadtteilzentrum-gestalten-3.html",
-            "title": "Gemeinsam unser Stadtteilzentrum gestalten!",
-            "summary": "Wie soll das Herz des Schotthocks in Zukunft aussehen? Seit Mai arbeiten drei interdisziplinäre Teams aus Stadtplanung, Freiraum- und Verkehrsplanung an dieser Frage. Ihr gemeinsames Ziel: einen Rahmenplan für das Stadtteilzentrum zu entwickeln – ein Konzept, das den zentralen Bereich rund um die Ludgeruskirche aufwertet&hellip;",
-            "content_html": "<p>Wie soll das Herz des Schotthocks in Zukunft aussehen? Seit Mai arbeiten drei interdisziplinäre Teams aus Stadtplanung, Freiraum- und Verkehrsplanung an dieser Frage. Ihr gemeinsames Ziel: einen Rahmenplan für das Stadtteilzentrum zu entwickeln – ein Konzept, das den zentralen Bereich rund um die Ludgeruskirche aufwertet und den Schotthock als eigenständigen, lebendigen Stadtteil stärkt.</p>\n<p>Im Fokus stehen dabei viele spannende Themen: Wie kann der Kern des Stadtteils zukünftig aussehen? Welche Ideen gibt es für die Umgestaltung der Bonifatiusstraße? Wie lässt sich der Einzelhandel stärken und der Standort attraktiver gestalten? Und: Wie können neue, lebenswerte Aufenthaltsräume für die Menschen vor Ort entstehen? Der entstehende Rahmenplan soll all das beantworten – und noch mehr. Er dient als stabiles und zugleich flexibles Gerüst für die künftige Entwicklung des Stadtteilzentrums.</p>\n<p>Damit dieser Plan wirklich zu den Bedürfnissen der Menschen passt, ist Ihre Meinung gefragt.</p>\n<p>Deshalb laden wir Sie herzlich zu unserem „Schulterblick“</p>\n<p>am Donnerstag, 03. Juli 2025, von 17:30 bis 20:00 Uhr im Ludgerusforum, Bonifatiusstraße 50, 48429 Rheine</p>\n<p>ein.</p>\n<p>Bei dieser öffentlichen Veranstaltung geben die drei Planungsteams Einblick in ihre bisherigen Überlegungen. Sie haben dabei die Gelegenheit, Fragen zu stellen, mit den Fachleuten ins Gespräch zu kommen und Ihre eigenen Ideen und Anregungen einzubringen. Denn: Gute Stadtplanung entsteht im Dialog – zwischen Planenden, Politik, Verwaltung und Ihnen, den Bürgerinnen und Bürgern.</p>\n<p>Kommen Sie vorbei, gestalten Sie mit – wir freuen uns auf Sie und Ihre Ideen!</p>\n",
-            "author": {
-                "name": "Carl Remmes"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-26T08:00:00+02:00",
             "date_modified": "2026-09-12T13:40:24+02:00"
         }
     ]

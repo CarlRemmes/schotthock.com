@@ -3,12 +3,24 @@
     <title>schotthock.com</title>
     <link href="https://www.schotthock.com/feed.xml" rel="self" />
     <link href="https://www.schotthock.com" />
-    <updated>2026-09-12T13:42:25+02:00</updated>
+    <updated>2026-11-04T15:18:07+01:00</updated>
     <author>
         <name>Carl Remmes</name>
     </author>
     <id>https://www.schotthock.com</id>
 
+    <entry>
+        <title>Das ist ein neuer Blogeintrag!</title>
+        <author>
+            <name>Carl Remmes</name>
+        </author>
+        <link href="https://www.schotthock.com/das-ist-ein-neuer-blogeintrag.html"/>
+        <id>https://www.schotthock.com/das-ist-ein-neuer-blogeintrag.html</id>
+
+        <updated>2026-11-04T15:18:07+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>„Blätterbühne“ im Schotthock ist fertig</title>
         <author>
@@ -241,34 +253,6 @@
 <p>Komm vorbei, bring deine Ideen mit und lass uns den Schotthock zusammen noch schöner machen.</p>
 <p>Mach mit – für unser Zuhause, für uns alle! 💚</p>
 <p>#MeinSchotthock #ZukunftGestalten #Ideenwerkstatt #GemeinsamStark #Rheine</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gemeinsam unser Stadtteilzentrum gestalten!</title>
-        <author>
-            <name>Carl Remmes</name>
-        </author>
-        <link href="https://www.schotthock.com/gemeinsam-unser-stadtteilzentrum-gestalten-3.html"/>
-        <id>https://www.schotthock.com/gemeinsam-unser-stadtteilzentrum-gestalten-3.html</id>
-
-        <updated>2025-06-26T08:00:00+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Wie soll das Herz des Schotthocks in Zukunft aussehen? Seit Mai arbeiten drei interdisziplinäre Teams aus Stadtplanung, Freiraum- und Verkehrsplanung an dieser Frage. Ihr gemeinsames Ziel: einen Rahmenplan für das Stadtteilzentrum zu entwickeln – ein Konzept, das den zentralen Bereich rund um die Ludgeruskirche aufwertet&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Wie soll das Herz des Schotthocks in Zukunft aussehen? Seit Mai arbeiten drei interdisziplinäre Teams aus Stadtplanung, Freiraum- und Verkehrsplanung an dieser Frage. Ihr gemeinsames Ziel: einen Rahmenplan für das Stadtteilzentrum zu entwickeln – ein Konzept, das den zentralen Bereich rund um die Ludgeruskirche aufwertet und den Schotthock als eigenständigen, lebendigen Stadtteil stärkt.</p>
-<p>Im Fokus stehen dabei viele spannende Themen: Wie kann der Kern des Stadtteils zukünftig aussehen? Welche Ideen gibt es für die Umgestaltung der Bonifatiusstraße? Wie lässt sich der Einzelhandel stärken und der Standort attraktiver gestalten? Und: Wie können neue, lebenswerte Aufenthaltsräume für die Menschen vor Ort entstehen? Der entstehende Rahmenplan soll all das beantworten – und noch mehr. Er dient als stabiles und zugleich flexibles Gerüst für die künftige Entwicklung des Stadtteilzentrums.</p>
-<p>Damit dieser Plan wirklich zu den Bedürfnissen der Menschen passt, ist Ihre Meinung gefragt.</p>
-<p>Deshalb laden wir Sie herzlich zu unserem „Schulterblick“</p>
-<p>am Donnerstag, 03. Juli 2025, von 17:30 bis 20:00 Uhr im Ludgerusforum, Bonifatiusstraße 50, 48429 Rheine</p>
-<p>ein.</p>
-<p>Bei dieser öffentlichen Veranstaltung geben die drei Planungsteams Einblick in ihre bisherigen Überlegungen. Sie haben dabei die Gelegenheit, Fragen zu stellen, mit den Fachleuten ins Gespräch zu kommen und Ihre eigenen Ideen und Anregungen einzubringen. Denn: Gute Stadtplanung entsteht im Dialog – zwischen Planenden, Politik, Verwaltung und Ihnen, den Bürgerinnen und Bürgern.</p>
-<p>Kommen Sie vorbei, gestalten Sie mit – wir freuen uns auf Sie und Ihre Ideen!</p>
 
             ]]>
         </content>
